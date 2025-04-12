@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border: none;
+  }
+  
+  .btn {
+    font-size: 1.1rem;
+    transition: 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
